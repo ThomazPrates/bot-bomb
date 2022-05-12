@@ -1,0 +1,4 @@
+  # Configurações de conexão para Telegram
+ active: True
+ token: '5174101525:AAHHZsUu_Ew-xtSfbCwafGVPC8S9jzKZF3I'
+ chatid: '5067735154'
